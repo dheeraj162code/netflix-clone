@@ -23,7 +23,7 @@ A simple Netflix clone built using HTML and CSS. This project replicates the bas
 
 ## Live Demo
 
-[View Live Demo](https://your-live-demo-link.com)
+https://dheeraj162code.github.io/netflix-clone/
 
 ## Credits
 
